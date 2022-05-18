@@ -1,0 +1,219 @@
+/*Index CSS*/
+body {
+  margin: 0px;
+  background-image: url(background.jpg);
+}
+
+.item5 {
+  background-color: #f2f7ff;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.item50 {
+  width: 100%;
+  padding-bottom: 4%;
+}
+
+.flex-container {
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+flex-direction: row;
+}
+
+.footer1 {
+  background-color: white;
+  width: 100%;
+  text-align: center;
+}
+
+nav li {
+  float: left;
+  width: 25%;
+  align-items: center;
+  text-decoration: none;
+  list-style-type: none;
+  text-align: center;
+}
+
+nav ul li {
+  color: white;
+}
+
+nav ul li a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+.header1 {
+  width: 100%;
+  background-color: #212526;
+  padding-bottom: 20px;
+}
+
+.item1 {
+  width: 100%;
+  text-align: center;
+  padding-bottom: 5%;
+}
+
+.item2, .item4 {
+  width: 30%;
+}
+
+.item3 {
+  width: 26%;
+  padding-right: 2%;
+}
+
+.item5 {
+  width: 100%;
+}
+
+.item2 h2, .item4 h2 {
+  text-align: center;
+}
+
+.item2 p, .item4 p {
+  text-align: left;
+  line-height: 2;
+}
+
+.item2 {
+  padding-right: 2%;
+}
+
+.item1 h1 {
+  font-size: 36px;
+}
+
+/*About CSS*/
+.body2 {
+  width: 50%;
+  padding-right: 5%;
+  padding-left: 5%;
+}
+
+.item6 {
+  width: 40%;
+  background-color: #363232;
+}
+
+.body2 h1 {
+  text-align: center;
+}
+
+.item3 img {
+  width: 100%;
+  height: 75%;
+}
+
+.body2 img {
+  height: 180px;
+  width: 300px;
+}
+
+.item6 img {
+  height: 65%;
+  width: 65%;
+  padding-left: 17.5%;
+  padding-top: 7%;
+}
+
+.item6 h2 {
+  text-align: center;
+  color: white;
+}
+
+.item3 img {
+  height: 400px;
+}
+
+/*Projects CSS*/
+.item7 {
+  width: 90%;
+}
+
+.item8, .item9, .item10, .item11, .item12, .item13 {
+  width: 30%;
+}
+
+.item8, .item9, .item10 {
+  padding-bottom: 2%;
+}
+
+.item8 img, .item9 img, .item10 img, .item11 img, .item12 img, .item13 img {
+  width: 100%;
+  height: 60%;
+}
+
+/*Contact CSS*/
+.item14 {
+  text-align: center;
+  width: 100%;
+}
+
+.item15, .item20 {
+  width: 100%;
+  text-align: center;
+}
+
+.item14 input {
+  float: left;
+  width: 80%;
+  margin-left: 10%;
+  padding-bottom: 2%;
+}
+
+.item14 textarea {
+  float: left;
+  width: 80%;
+  margin-left: 10%;
+  padding-bottom: 2%;
+}
+
+.button1 {
+  width: 10%;
+  margin-left: 45%;
+  margin-right: 45%;
+}
+
+.item16, .item17, .item18 {
+  width: 33%;
+  text-align: center;
+}
+
+/* Style for footer icons */
+.footer1 .fa {
+  padding: 20px;
+  font-size: 20px;
+  width: 2px;
+  height: 2px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 0px;
+}
+
+/* Facebook */
+.fa-facebook {
+
+  color: black;
+}
+
+/* Twitter */
+.fa-twitter {
+
+  color: black;
+}
+
+/* Linked In*/
+.fa-linkedin {
+
+  color: black;
+}
+
+.item16 img , .item17 img, .item18 img {
+  width: 150px;
+  height: 150px;
+}

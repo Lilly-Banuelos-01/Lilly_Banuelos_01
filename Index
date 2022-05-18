@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Lilly Banuelos Portfolio</title>
+    <link rel="stylesheet" href="main2.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!--
+    Developer: Lilly Banuelos
+    Date: 05/15/2022
+    -->
+  </head>
+  <body>
+    <div class="flex-container">
+      <div class="item header1">
+        <header>
+          <nav>
+            <ul>
+              <li><a href="index.html">Home</a></li>
+              <li><a href="about.html">About</a></li>
+              <li><a href="projects.html">Projects</a></li>
+              <li><a href="contact.html">Contact</a></li>
+            </ul>
+          </nav>
+        </header>
+      </div>
+
+      <div class="item item1">
+        <h1>Lilly Banuelos</h1>
+      </div>
+
+      <div class="item item2">
+        <h2>Programmer</h2>
+        <p>First and foremost, I am a programmer! Whether you need me to work With
+         HTML, CSS, JavaScript, Python, or C#, I can do all the behind the scenes
+        work for your website or application. I have more than a year of experience
+       under my belt, and am always aquiring new technological skills. I love to code
+      solutions to anything you can think of, whether you need something for personal
+     use, business, or commercial applications. I work with you to make sure everything
+    turns out exactly like you're expecting, and am flexible when it comes to
+   adding elements to your project. I have worked on many projects throughout my
+  budding career as a full-stack developer, making my code comprehensive and interactive.</p>
+      </div>
+
+      <div class="item item3">
+        <a href="about.html"><img src="me.jpg" alt="Lilly Banuelos"></a>
+      </div>
+
+      <div class="item item4">
+        <h2>Designer</h2>
+        <p>I am a designer! Not only will I code websites and applications for you,
+         but I also love to design them. My designs typically will follow themes
+        found in your project, or otherwise are based on your personal preferences.
+      My work features many images to showcase clients' different products or highlighted items,
+     and are also doubled up as links to appropriate sections of the site where appropriate.
+    I love adding interactive elements as well, as it adds a certain spark to projects
+   and greatly increases website traffic. I can also use software to custom make images
+  and logos as needed for your site or application, making changes as you request. I work through
+ the design process with you start to finish.</p>
+      </div>
+
+      <div class="item item50">
+        <p> </p>
+      </div>
+
+      <div class="item item5">
+        <h2>Specialties</h2>
+        <p><b>HTML and CSS</b>. I can do back-end development for your website.
+        I work with flexboxes and resizing elements based on screen size, so that
+      the website will look great on any device. I can encorporate any links or interactive
+    elements as well.</p>
+        <p><b>JavaScript</b>. If your website needs any user-interactive elements, I can
+         add it anywhere you need it. I have experience with arrays, variables,
+       and many different script tags. For examples, please see the <a href="projects.html">projects</a> page.</p>
+        <p><b>Python and C#</b>. If you need anything outside of a website, either through
+        a link or related project, I am experienced in these programming languages. With these languages, I can make games
+       or interactive elements as you need.</p>
+      </div>
+
+      <div class="item footer1">
+        <footer>
+          Lilly Banuelos &bull; 3157 West Dev Avenue, Springfield MO &nbsp;65806 &bull; 417-555-2100
+          <a href="https://www.facebook.com/" class="fa fa-facebook"></a>
+          <a href="https://twitter.com/" class="fa fa-twitter"></a>
+          <a href="https://www.linkedin.com/" class="fa fa-linkedin"></a>
+        </footer>
+      </div>
+
+    </div>
+  </body>
+</html>

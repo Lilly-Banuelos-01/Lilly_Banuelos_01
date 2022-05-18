@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Lilly Banuelos Portfolio</title>
+    <link rel="stylesheet" href="main3.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!--
+    Developer: Lilly Banuelos
+    Date: 05/15/2022
+    -->
+  </head>
+  <body>
+    <div class="flex-container">
+      <div class="item header1">
+        <header>
+          <nav>
+            <ul>
+              <li><a href="index.html">Home</a></li>
+              <li><a href="about.html">About</a></li>
+              <li><a href="projects.html">Projects</a></li>
+              <li><a href="contact.html">Contact</a></li>
+            </ul>
+          </nav>
+        </header>
+      </div>
+
+      <div class="item item7">
+        <h1>PAST<br>PROJECTS</h1>
+      </div>
+
+      <div class="item item60">
+        <h2>Card Deck Game</h2>
+      </div>
+
+      <div class="item item61">
+        <h2>Roots Website</h2>
+      </div>
+
+      <div class="item item62">
+        <h2>Mobile Panini Website</h2>
+      </div>
+
+      <div class="item item8">
+        <img src="cards.jpg" alt="Project 1">
+
+        <p>For this project, the specification was to make a list that displays
+         one random card from each card suit. I did this using JavaScript to create this
+        fun little game. My partner covered the second half
+       where the player gets assigned a random number and has to guess it to win.
+      To get new values for both, the page needs to be refreshed.</p>
+      </div>
+
+      <div class="item item9">
+        <img src="roots.jpg" alt="Project 2">
+
+        <p>This is a screenshot from a website I made for a company called Roots Garden
+         Center. Here you can see the about page where the company's founder and leaders
+        are highlighted. It covers some of their accomplishments and helps visitors to the site
+      understand what Roots is all about.</p>
+      </div>
+
+      <div class="item item10">
+        <img src="panini.jpg" alt="Project 3">
+
+        <p>This project was for a food truck. The owners wanted to
+         include the times and places where the truck would be visiting each week.
+        They also asked to include the different events they stop at throughout the year.
+       I showcase this through a table under the events page. This is a screenshot of the
+      welcome page.</p>
+      </div>
+
+      <div class="item item63">
+        <h2>War Card Game</h2>
+      </div>
+
+      <div class="item item64">
+        <h2>YogiBear National Park Website</h2>
+      </div>
+
+      <div class="item item65">
+        <h2>Hawaii Activities Website</h2>
+      </div>
+
+
+      <div class="item item11">
+        <img src="war.jpg" alt="Project 4">
+
+        <p>This is a website version of the classic card game war. To play, the players
+         hit play and a card is chosen for each from any of four suits. The player
+        with the highest card value wins. If the cards are the same in value, there is a tie.
+       At the end of the round, the players are asked if they want to play agian.</p>
+      </div>
+
+      <div class="item item12">
+        <img src="yogi.jpg" alt="Project 5">
+
+        <p>This is a website I made for YogiBear State Park. The park rangers really
+         wanted to get more people involved in their activities and nature reserve program.
+        To do this, I used a gallery and plenty of images to showcase the beauty and amenities of the
+       park. This is from the home page.</p>
+      </div>
+
+      <div class="item item13">
+        <img src="hawaii.jpg" alt="Project 6">
+
+        <p>Hawaii has many activities and opportunities for tourists. A company
+         specializing in recreational activities reached out to me to design their home page.
+        I focused on using a beach-toned color scheme and images to draw visitors in. Their top
+        attractions are included on the front page as well.</p>
+      </div>
+
+      <div class="item item30">
+        <p> </p>
+      </div>
+
+      <div class="item footer1">
+        <footer>
+          Lilly Banuelos &bull; 3157 West Dev Avenue, Springfield MO &nbsp;65806 &bull; 417-555-2100
+          <a href="https://www.facebook.com/" class="fa fa-facebook"></a>
+          <a href="https://twitter.com/" class="fa fa-twitter"></a>
+          <a href="https://www.linkedin.com/" class="fa fa-linkedin"></a>
+        </footer>
+      </div>
+
+    </div>
+  </body>
+</html>
